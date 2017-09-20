@@ -1,3 +1,15 @@
-html {
-	background-color: green;
+body{
+	background-color: Green;
+	background-size: 100%;
+	background-attachment: fixed;
+	color: white;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+h2{
+	display: inline;
+}
+
+#start{
+	margin: 10px;
 }
